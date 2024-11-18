@@ -7,9 +7,9 @@ const Header = () => {
          <header>
          <div className={s.container}>
          <nav className={s.nav}>
-             <Link href='about'>About</Link>
-             <Link href='about'>contact</Link>
-             <Link href='about'>more</Link>
+             <Link href='/about'>About</Link>
+             <Link href='/about'>contact</Link>
+             <Link href='/about'>more</Link>
 
          </nav>
          </div>
