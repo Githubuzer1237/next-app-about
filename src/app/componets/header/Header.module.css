@@ -3,7 +3,7 @@
    justify-content: center;
    gap: 120px;
     
-   a {
+   .silka {
       text-decoration: none;
       color: #000;
       background-color: rgb(175, 173, 173);
@@ -15,4 +15,3 @@
       }
    }
 }
-
