@@ -1,0 +1,11 @@
+.hero__wrapper {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 120px;
+   padding-top: 120px;
+   flex-wrap: wrap;
+   .div > img {
+      width: 100%;
+   }
+}

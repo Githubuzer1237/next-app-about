@@ -1,0 +1,18 @@
+.nav {
+   display: flex;
+   justify-content: center;
+   gap: 120px;
+    
+   a {
+      text-decoration: none;
+      color: #000;
+      background-color: rgb(175, 173, 173);
+      border-radius: 10px;
+      padding: 3px 10px;
+      transition: 0.3s;
+      &:hover {
+         background-color: rgb(214, 213, 213);
+      }
+   }
+}
+
